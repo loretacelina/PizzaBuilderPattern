@@ -11,7 +11,7 @@ class Program
         // Assign the builder to the director.
         director.SetBuilder(builder);
 
-        // Build the pizza.
+        // Build the pizza assigned to variable pizza
         var pizza = director.BuildPizza();
 
         // Display the pizza.
