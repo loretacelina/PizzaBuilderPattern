@@ -1,3 +1,4 @@
+
 public class VegetarianPizzaBuilder : IPizzaBuilder
 {
     private Pizza _pizza;
@@ -37,3 +38,4 @@ public class VegetarianPizzaBuilder : IPizzaBuilder
         return _pizza;
     }
 }
+
